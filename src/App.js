@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          this is the link
+          this is the link for site
         </a>
       </header>
     </div>
